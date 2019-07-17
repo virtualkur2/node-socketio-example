@@ -1,0 +1,24 @@
+{
+  "name": "node-socketio-example",
+  "version": "1.0.0",
+  "description": "A simple Node-Express app with socketio functionallity example",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "SocketIO"
+  ],
+  "author": "Mauricio Contreras",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
