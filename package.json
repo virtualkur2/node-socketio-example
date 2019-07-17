@@ -14,6 +14,15 @@
   ],
   "author": "Mauricio Contreras",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/virtualkur2/node-socketio-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/virtualkur2/node-socketio-example/issues"
+  },
+  "homepage": "https://github.com/virtualkur2/node-socketio-example",
+
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^2.2.0"
